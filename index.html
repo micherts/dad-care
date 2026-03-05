@@ -8,7 +8,8 @@
   body { font-family: -apple-system, sans-serif; max-width: 960px; margin: 0 auto; padding: 16px; color: #1a1a1a; background: #fff; }
   h1 { font-size: 20px; margin-bottom: 4px; }
   .updated { font-size: 13px; color: #888; margin-bottom: 24px; }
-  table { width: 100%; border-collapse: collapse; font-size: 14px; margin-bottom: 8px; }
+  .table-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; margin-bottom: 8px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; min-width: 500px; }
   th { text-align: left; background: #f2f2f2; padding: 8px 10px; font-weight: 600; }
   td { padding: 8px 10px; border-bottom: 1px solid #e8e8e8; vertical-align: top; }
   td:first-child { white-space: nowrap; }
@@ -41,7 +42,7 @@
 
 <button class="acc-header" onclick="toggle(this)">Upcoming Appointments <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th style="white-space: nowrap; min-width: 110px;">Date &amp; Time</th>
     <th>Appointment</th>
@@ -66,7 +67,7 @@
     <td>TBC</td>
     <td>—</td>
   </tr>
-</table>
+</table></div>
 <div class="note"><strong>Dialysis pattern:</strong> HDF (Haemodiafiltration) via CVC, 3.5 hrs per session. Twice a week. Confirm each session time with Renal Unit (01206 747576).</div>
 <div class="note" style="margin-top: 8px;"><strong>Radiotherapy complete after 3 March.</strong> Side effects and benefits both expected to peak around 6 weeks post-treatment (approx mid-April).</div>
 </div>
@@ -74,7 +75,7 @@
 
 <button class="acc-header" onclick="toggle(this)">Open Actions <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>Action</th>
     <th>Status</th>
@@ -95,13 +96,13 @@
     <td>Book chest X-ray at approx 6 weeks post radiotherapy (~14 April 2026)</td>
     <td><span class="tag tag-pending">To do</span></td>
   </tr>
-</table>
+</table></div>
 </div>
 
 
 <button class="acc-header" onclick="toggle(this)">Current Medications <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>Medication</th>
     <th>Dose</th>
@@ -166,13 +167,13 @@
     <td>7 tablets</td>
     <td>Reorder when low</td>
   </tr>
-</table>
+</table></div>
 </div>
 
 
 <button class="acc-header" onclick="toggle(this)">Key Contacts <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>Name / Team</th>
     <th>Role</th>
@@ -233,14 +234,14 @@
     <td>Orthopaedic / Hip MRI — Turner Centre</td>
     <td>—</td>
   </tr>
-</table>
+</table></div>
 </div>
 
 
 <button class="acc-header" onclick="toggle(this)">Clinical Trials Research <span class="acc-icon">▾</span></button>
 <div class="acc-body">
 <div class="note" style="margin-bottom: 12px;"><strong>Summary (researched 2 March 2026):</strong> Dad's profile falls outside the eligibility criteria for every currently recruiting UK SCLC trial. The two main barriers are dialysis-dependent kidney failure (trials require CrCl &ge;50 ml/min; Dad's eGFR is 13–14) and performance status (trials require ECOG 0–1). The most realistic options are a referral to a Phase I trials centre or named patient access to tarlatamab.</div>
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>Priority</th>
     <th>Route</th>
@@ -266,8 +267,8 @@
     <td>Obrixtamig (DAREON-5 trial — Boehringer Ingelheim)<br><small style="color:#888">Phase II DLL3/CD3 T-cell engager. FDA Breakthrough Therapy. Likely excluded (ECOG, prior lines) — but worth confirming UK sites and renal criteria.</small></td>
     <td>Contact Boehringer Ingelheim or UCLH/Addenbrooke's Early Phase Trials</td>
   </tr>
-</table>
-<table style="margin-top: 12px;">
+</table></div>
+<div class="table-wrap"><table style="margin-top: 12px;">
   <tr>
     <th>Trial / Drug</th>
     <th>Status for Dad</th>
@@ -298,14 +299,14 @@
     <td><span class="tag tag-pending">Enquire</span></td>
     <td>Confirm UK sites and renal exclusion criteria before ruling out</td>
   </tr>
-</table>
+</table></div>
 <div class="note" style="margin-top: 12px; border-left-color: #94a3b8;"><em>Trial landscape changes frequently. Research conducted 2 March 2026. Verify status before acting. Full research notes in <a href="../clinical-trials-research.md">clinical-trials-research.md</a>.</em></div>
 </div>
 
 
 <button class="acc-header" onclick="toggle(this)">Questions for Dr Ingles <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>#</th>
     <th>Question</th>
@@ -341,13 +342,13 @@
     <td>Dexamethasone taper schedule</td>
     <td>Awaiting instructions from team</td>
   </tr>
-</table>
+</table></div>
 </div>
 
 
 <button class="acc-header" onclick="toggle(this)">Phase I Enquiries <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>Centre</th>
     <th>Contact</th>
@@ -378,13 +379,13 @@
     <td><a href="mailto:International@MDAnderson.org">International@MDAnderson.org</a> / 001-713-745-0450</td>
     <td>Active SCLC Phase I/II trials confirmed (ABBV-706, veliparib + temozolomide). 5 Mar — Emailed International Centre re dialysis-dependent patient eligibility. Next: await response.</td>
   </tr>
-</table>
+</table></div>
 </div>
 
 
 <button class="acc-header" onclick="toggle(this)">Sources Researched <span class="acc-icon">▾</span></button>
 <div class="acc-body">
-<table>
+<div class="table-wrap"><table>
   <tr>
     <th>Source</th>
     <th>What was checked</th>
@@ -419,7 +420,7 @@
   <tr><td><a href="https://www.thelancet.com" target="_blank">The Lancet</a></td><td>IMforte (lurbinectedin + atezolizumab) results</td></tr>
   <tr><td><a href="https://www.uclh.nhs.uk" target="_blank">UCLH</a></td><td>Combination therapy trial listings</td></tr>
   <tr><td><a href="https://onlinelibrary.wiley.com" target="_blank">Wiley Online Library</a></td><td>ES-SCLC management review</td></tr>
-</table>
+</table></div>
 </div>
 
 <script>
