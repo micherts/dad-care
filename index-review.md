@@ -114,6 +114,7 @@ Last updated: 5 March 2026, 14:21 GMT
 | Addenbrooke's — Early Phase Oncology | 01223 254642 / cuh.crfenquiries@nhs.net | 5 Mar — Called 01223 254642. Advised to check takepartinresearch.co.uk — checked, no cancer trials listed. Emailed cuh.crfenquiries@nhs.net. Next: await response. |
 | Cancer Research UK — Nurses team | 0300 123 4452 | 5 Mar — Called. Advised to search cancerresearchuk.org and mdanderson.org. Searched cancerresearchuk.org — no active SCLC trials listed. Next: await any new listings. |
 | MD Anderson Cancer Center | International@MDAnderson.org / 001-713-745-0450 | Active SCLC Phase I/II trials confirmed (ABBV-706, veliparib + temozolomide). 5 Mar — Emailed International Centre re dialysis-dependent patient eligibility. Next: await response. |
+| Boehringer Ingelheim — DAREON-5 (obrixtamig) | 01344 742579 / medinfo.bra@boehringer-ingelheim.com | 5 Mar — Called. Advised all trials listed on clinicaltrials.gov and bepartofresearch.nihr.ac.uk — both already searched 2 Mar, no suitable SCLC trials found. Next: monitor for new listings. |
 
 ---
 
