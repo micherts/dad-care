@@ -85,6 +85,7 @@ Last updated: 5 March 2026, 10:21 GMT
 | Centre | Contact | Method | Date | Status |
 |--------|---------|--------|------|--------|
 | UCLH — Cancer Clinical Trials Unit | uclh.cctuadministrators@nhs.net | Email | 5 Mar 2026 | Awaiting response |
+| Amgen UK — Named Patient Programme | 01223 436441 | Call | 5 Mar 2026 | Called — left Dad's profile and contact details. Awaiting response. |
 | Addenbrooke's — Early Phase Oncology | cuh.crfenquiries@nhs.net | Call + Email | 5 Mar 2026 | Called 01223 254642. takepartinresearch.co.uk — no cancer trials listed. Emailed CRF — awaiting response. |
 
 ---
