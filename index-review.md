@@ -1,5 +1,5 @@
 # Dad Medical Status
-Last updated: 5 March 2026, 14:21 GMT
+Last updated: 5 March 2026, 15:00 GMT
 
 ---
 
@@ -67,7 +67,9 @@ Last updated: 5 March 2026, 14:21 GMT
 
 ## Clinical Trials Research
 
-> **Summary (researched 2 March 2026):** Dad's profile falls outside the eligibility criteria for every currently recruiting UK SCLC trial. The two main barriers are dialysis-dependent kidney failure (trials require CrCl ≥50 ml/min; Dad's eGFR is 13–14) and performance status (trials require ECOG 0–1). The most realistic options are a referral to a Phase I trials centre or named patient access to tarlatamab.
+> **Summary (researched 2 March 2026, updated 5 March 2026):** Dad's profile currently falls outside the eligibility criteria for every recruiting SCLC trial. The two main barriers are dialysis-dependent kidney failure and performance status. Every trial reviewed requires ECOG 0–1; Dad is currently ECOG 2–3.
+>
+> **Key conclusion:** Improving fitness to ECOG 0–1 is the single most impactful step Dad can take to open up trial eligibility. ECOG is assessed by the treating clinician and can change — if Dad's condition stabilises and activity levels improve following the completion of radiotherapy, a reassessment with Dr Ingles should be requested. In parallel, the named patient route (tarlatamab via Amgen) and Phase I centre referral remain the most realistic near-term options regardless of ECOG.
 
 ### Realistic Routes — In Priority Order
 
