@@ -1,5 +1,5 @@
 # Dad Medical Status
-Last updated: 16 March 2026, 10:04 GMT
+Last updated: 16 March 2026, 11:15 GMT
 
 ---
 
@@ -43,58 +43,33 @@ Last updated: 16 March 2026, 10:04 GMT
 
 ---
 
-## Clinical Trials Research
+## Clinical Trials & Enquiries
 
-> **Summary (researched 2 March 2026, updated 5 March 2026):** Dad's profile currently falls outside the eligibility criteria for every recruiting SCLC trial. The two main barriers are dialysis-dependent kidney failure and performance status. Every trial reviewed requires ECOG 0–1; Dad is currently ECOG 2–3.
+> **Summary (researched 2 March 2026, updated 16 March 2026):** Dad's profile currently falls outside the eligibility criteria for every recruiting SCLC trial. The two main barriers are dialysis-dependent kidney failure and performance status. Every trial reviewed requires ECOG 0–1; Dad is currently ECOG 2–3.
 >
-> **Key conclusion:** Improving fitness to ECOG 0–1 is the single most impactful step Dad can take to open up trial eligibility. ECOG is assessed by the treating clinician and can change — if Dad's condition stabilises and activity levels improve following the completion of radiotherapy, a reassessment with Dr Ingles should be requested. In parallel, the named patient route (tarlatamab via Amgen) and Phase I centre referral remain the most realistic near-term options regardless of ECOG.
+> **Key conclusion:** Improving fitness to ECOG 0–1 is the single most impactful step. If Dad's condition stabilises post-radiotherapy, a reassessment with Dr Ingle should be requested. In parallel, the named patient route (tarlatamab via Amgen) and Phase I centre referral remain the most realistic near-term options regardless of ECOG.
 
-### Realistic Routes — In Priority Order
+| Centre / Query | Contact | Status |
+|----------------|---------|--------|
+| UCLH — Cancer Clinical Trials Unit — Phase I referral, Dr Ingle action required | uclh.referrals.clinicalresearchfacility@nhs.net — Keenjee Nama, Senior Research Nurse — 0203 447 2929/30 — keenjee.nama@nhs.net | **Action needed** 16 Mar — Response received. Dr Ingle must send formal referral letter (diagnosis, medical/surgical history, treatment history) to uclh.referrals.clinicalresearchfacility@nhs.net. Sub-investigators will review and respond to referrer. |
+| MD Anderson Cancer Center — International Phase I / specialist review | celgarcia@mdanderson.org — Celia M. Garcia, Patient Access Representative — 001-713-745-0450 | **Action needed** 16 Mar — Response received. To book appointment send: full name + passport copy, DOB, phone + email, diagnosis. They will then email Dad directly with process to present case to the clinic. |
+| Amgen UK — Tarlatamab (IMDYLLTRA) — Named patient / private access. MHRA conditionally approved Jan 2025. NICE declined Aug 2025. Hepatically cleared — may suit renal patients. | gbinfoline@amgen.com / 01223 436441 | **Closed** 16 Mar — No compassionate access programme in UK. IMDYLLTRA available privately (hospital only). Must go through treating doctor. Next: ask Dr Ingle to explore private access via Amgen Medical Information. |
+| Addenbrooke's — Early Phase Oncology — Phase I referral, alternative to UCLH (~45 min) | 01223 254642 / cuh.crfenquiries@nhs.net | 5 Mar — Called. Advised to check takepartinresearch.co.uk — checked, no cancer trials listed. Emailed cuh.crfenquiries@nhs.net. Next: await response. |
+| Cancer Research UK — Nurses team | 0300 123 4452 | 5 Mar — Called. Advised to search cancerresearchuk.org and mdanderson.org. Searched — no active SCLC trials listed. Next: await any new listings. |
+| Boehringer Ingelheim — DAREON-5 (obrixtamig) — Phase II DLL3/CD3 T-cell engager. FDA Breakthrough Therapy. Confirm UK sites and renal exclusion criteria. | medinfo.bra@boehringer-ingelheim.com / 01344 742579 | 5 Mar — Called. Advised all trials listed on clinicaltrials.gov and bepartofresearch.nihr.ac.uk — both already searched 2 Mar, no suitable SCLC trials found. Next: monitor for new listings. |
+| Dr Ingle — Molecular profiling | 01206 745087 | Ask: Was tumour molecular profiling done? Rare chance of actionable mutation that could open additional options. |
+| Dr Ingle — SABR to metastases | 01206 745087 | Ask: Was stereotactic radiotherapy (SABR) to specific metastases considered? Eligibility depends on location and number of metastases. |
+| Dr Ingle — Dexamethasone taper | 01206 745087 | Awaiting — taper schedule not yet received from team. |
 
-| Priority | Route | Next step |
-|----------|-------|-----------|
-| 1 | Ask Dr Ingles for referral to Phase I specialist centre | Addenbrooke's (~45 min) or UCLH (~60–70 min by train) |
-| 2 | Named patient access — tarlatamab (Imdylltra, Amgen) — MHRA conditionally approved Jan 2025. NICE declined Aug 2025 — not NHS routine. Hepatically cleared — may suit renal patients. Cost: substantial, likely not NHS-funded. | Ask Dr Ingles to contact Amgen UK: 01223 436441 |
-| 3 | Cancer Research UK trials matching service | Call 0300 123 4452 — free, will check current protocols |
-| 4 | Obrixtamig (DAREON-5 trial — Boehringer Ingelheim) — Phase II DLL3/CD3 T-cell engager. FDA Breakthrough Therapy. Likely excluded (ECOG, prior lines) — but worth confirming UK sites and renal criteria. | Contact Boehringer Ingelheim or UCLH/Addenbrooke's Early Phase Trials |
-
-### Trial Status Summary
+### Excluded Trials
 
 | Trial / Drug | Status for Dad | Reason |
 |---|---|---|
 | All main UK SCLC trials (ROSETTA, IMforte, KEYLYNK-013, BNT411, Lifileucel) | Excluded | Dialysis, ECOG 2–3, chemo/immunotherapy ruled out |
 | IDeate-Lung02 (ifinatamab deruxtecan) | Do not pursue | On global clinical hold — fatal lung toxicity (Grade 5 ILD) events |
 | LungVax (Prof Sarah Blagden, Oxford) | Not applicable | Prevention vaccine for *non-small cell* lung cancer — Dad has small cell |
-| Tarlatamab — private access (IMDYLLTRA) | Private only | No UK compassionate access. Available privately (hospital only). Dr Ingle must enquire via gbinfoline@amgen.com / 01223 436441. |
-| Obrixtamig (DAREON-5) | Enquire | Confirm UK sites and renal exclusion criteria before ruling out |
 
-*Trial landscape changes frequently. Research conducted 2 March 2026. Verify status before acting. Full research notes in [clinical-trials-research.md](../clinical-trials-research.md).*
-
----
-
-## Questions for Dr Ingles
-
-| # | Question | Context |
-|---|----------|---------|
-| 1 | Phase I referral — Addenbrooke's or UCLH Early Phase Oncology | UCLH already contacted directly — awaiting response |
-| 2 | Tarlatamab named patient access — contact Amgen UK: 01223 436441 | Called 5 Mar — left Dad's profile and contact details. Awaiting response. |
-| 3 | Was tumour molecular profiling done? | Rare chance of actionable mutation |
-| 4 | Stereotactic radiotherapy (SABR) to specific metastases — was it considered? | Depends on location/number of metastases |
-| 5 | Obrixtamig (DAREON-5) — confirm UK trial sites and renal exclusion criteria | Boehringer Ingelheim Phase II trial |
-| 6 | Dexamethasone taper schedule | Awaiting instructions from team |
-
----
-
-## Phase I Enquiries
-
-| Centre | Contact | Status |
-|--------|---------|--------|
-| UCLH — Cancer Clinical Trials Unit | uclh.referrals.clinicalresearchfacility@nhs.net — Keenjee Nama, Senior Research Nurse — 0203 447 2929/30 — keenjee.nama@nhs.net | **Action needed** 16 Mar — Response received. Dr Ingle must send formal referral letter (diagnosis, medical/surgical history, treatment history) to uclh.referrals.clinicalresearchfacility@nhs.net. Sub-investigators will review and respond to referrer. |
-| Amgen UK — Named Patient Programme | gbinfoline@amgen.com / 01223 436441 | **Closed** 16 Mar — No compassionate access programme in UK. IMDYLLTRA available privately (hospital only). Must go through treating doctor. Next: ask Dr Ingle to explore private access via Amgen Medical Information. |
-| Addenbrooke's — Early Phase Oncology | 01223 254642 / cuh.crfenquiries@nhs.net | 5 Mar — Called 01223 254642. Advised to check takepartinresearch.co.uk — checked, no cancer trials listed. Emailed cuh.crfenquiries@nhs.net. Next: await response. |
-| Cancer Research UK — Nurses team | 0300 123 4452 | 5 Mar — Called. Advised to search cancerresearchuk.org and mdanderson.org. Searched cancerresearchuk.org — no active SCLC trials listed. Next: await any new listings. |
-| MD Anderson Cancer Center | celgarcia@mdanderson.org — Celia M. Garcia, Patient Access Representative — 001-713-745-0450 | **Action needed** 16 Mar — Response received. To book appointment send: full name + passport copy, DOB, phone + email, diagnosis. They will then email Dad directly with process to present case to clinic. |
-| Boehringer Ingelheim — DAREON-5 (obrixtamig) | 01344 742579 / medinfo.bra@boehringer-ingelheim.com | 5 Mar — Called. Advised all trials listed on clinicaltrials.gov and bepartofresearch.nihr.ac.uk — both already searched 2 Mar, no suitable SCLC trials found. Next: monitor for new listings. |
+*Trial landscape changes frequently. Research conducted 2 March 2026, updated 16 March 2026. Verify status before acting. Full research notes in [clinical-trials-research.md](../clinical-trials-research.md).*
 
 ---
 
