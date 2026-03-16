@@ -1,11 +1,5 @@
 # Dad Medical Status
-Last updated: 5 March 2026, 15:00 GMT
-
----
-
-> **Diagnosis (2 March 2026):** Small cell lung cancer (SCLC) — metastatic. Treatment focus is palliative. Radiotherapy complete after 3 March. Community Palliative Care team taking over as lead contact.
-
-> **A&E warning:** If Dad experiences chest pain or shortness of breath at any time, go straight to A&E. Do not wait.
+Last updated: 16 March 2026, 10:04 GMT
 
 ---
 
@@ -13,7 +7,7 @@ Last updated: 5 March 2026, 15:00 GMT
 
 | Date & Time | Appointment | Duration | Type | Transport | Contact |
 |-------------|-------------|----------|------|-----------|---------|
-| Mon 9 Mar 16:20 | Hip MRI — Mr Lopez, Turner Centre | — | Outpatient | James | — |
+| Mon 9 Mar 16:20 | Hip MRI — Mr Lopez, Turner Centre | — | Done | James | Awaiting results |
 | ~Tue 14 Apr | Chest X-ray — radiotherapy response assessment — Radiology, Colchester Hospital — to be booked | — | To book | TBC | — |
 
 **Dialysis pattern:** HDF (Haemodiafiltration) via CVC, 3.5 hrs per session. Twice a week. Confirm each session time with Renal Unit (01206 747576).
@@ -26,24 +20,8 @@ Last updated: 5 March 2026, 15:00 GMT
 
 | Action | Status |
 |--------|--------|
-| Palliative Care team | In contact |
-| Dexamethasone taper schedule — await instructions from Dr Ingles / team | Awaiting |
 | GP appointment — request 2nd opinion referral to The Christie or Royal Marsden (Hardwicke House: 01787 370011) | To do |
 | Book chest X-ray at approx 6 weeks post radiotherapy (~14 April 2026) | To do |
-
----
-
-## Current Medications
-
-| Medication | Dose | Frequency | Purpose | Stock | Notes |
-|------------|------|-----------|---------|-------|-------|
-| Dexamethasone tablet | 2mg — 3 tablets (6mg) morning + 3 tablets (6mg) evening | Twice daily — 12mg total | Steroid — reduces swelling around tumour and inflammation during radiotherapy | 168 tablets (dispensed 26 Feb) | **Taper schedule coming from team** — reduce by 1 tablet per week. Confirm with Dr Ingles. |
-| Omeprazole gastro-resistant capsule | 20mg | Once daily | Stomach protector — prevents ulcers caused by dexamethasone | 28 capsules (dispensed 26 Feb) | Stop when dexamethasone stops. |
-| Fortisip Compact Protein (liquid) | 125ml | Morning and evening | Nutritional supplement — maintains weight and protein during treatment | ~20 bottles | Reorder when low. High-fat diet recommended — double cream, full-fat foods. Liquidise if needed. |
-| Renavit tablet | 1 tablet | Once daily | Renal vitamin supplement — replaces vitamins lost during dialysis | 100 tablets | 100 days supply |
-| Mometasone nasal spray | 50mcg | Once daily (1 spray each nostril) | Steroid nasal spray — reduces nasal inflammation | 140 actuations | 70 days supply |
-| Fexofenadine tablet | 120mg | Once daily | Antihistamine — controls allergy symptoms | 28 tablets | 28 days supply |
-| Zopiclone tablet | 3.75mg | Once nightly as needed | Sleeping tablet — short-term sleep support | 7 tablets | Reorder when low |
 
 ---
 
@@ -87,7 +65,7 @@ Last updated: 5 March 2026, 15:00 GMT
 | All main UK SCLC trials (ROSETTA, IMforte, KEYLYNK-013, BNT411, Lifileucel) | Excluded | Dialysis, ECOG 2–3, chemo/immunotherapy ruled out |
 | IDeate-Lung02 (ifinatamab deruxtecan) | Do not pursue | On global clinical hold — fatal lung toxicity (Grade 5 ILD) events |
 | LungVax (Prof Sarah Blagden, Oxford) | Not applicable | Prevention vaccine for *non-small cell* lung cancer — Dad has small cell |
-| Tarlatamab — named patient access | Possible | Hepatically cleared — may tolerate in renal impairment. Significant cost. |
+| Tarlatamab — private access (IMDYLLTRA) | Private only | No UK compassionate access. Available privately (hospital only). Dr Ingle must enquire via gbinfoline@amgen.com / 01223 436441. |
 | Obrixtamig (DAREON-5) | Enquire | Confirm UK sites and renal exclusion criteria before ruling out |
 
 *Trial landscape changes frequently. Research conducted 2 March 2026. Verify status before acting. Full research notes in [clinical-trials-research.md](../clinical-trials-research.md).*
@@ -111,11 +89,11 @@ Last updated: 5 March 2026, 15:00 GMT
 
 | Centre | Contact | Status |
 |--------|---------|--------|
-| UCLH — Cancer Clinical Trials Unit | uclh.cctuadministrators@nhs.net | 5 Mar — Emailed. Next: await response. |
-| Amgen UK — Named Patient Programme | 01223 436441 | 5 Mar — Called, left Dad's profile and contact details. Next: await response. |
+| UCLH — Cancer Clinical Trials Unit | uclh.referrals.clinicalresearchfacility@nhs.net — Keenjee Nama, Senior Research Nurse — 0203 447 2929/30 — keenjee.nama@nhs.net | **Action needed** 16 Mar — Response received. Dr Ingle must send formal referral letter (diagnosis, medical/surgical history, treatment history) to uclh.referrals.clinicalresearchfacility@nhs.net. Sub-investigators will review and respond to referrer. |
+| Amgen UK — Named Patient Programme | gbinfoline@amgen.com / 01223 436441 | **Closed** 16 Mar — No compassionate access programme in UK. IMDYLLTRA available privately (hospital only). Must go through treating doctor. Next: ask Dr Ingle to explore private access via Amgen Medical Information. |
 | Addenbrooke's — Early Phase Oncology | 01223 254642 / cuh.crfenquiries@nhs.net | 5 Mar — Called 01223 254642. Advised to check takepartinresearch.co.uk — checked, no cancer trials listed. Emailed cuh.crfenquiries@nhs.net. Next: await response. |
 | Cancer Research UK — Nurses team | 0300 123 4452 | 5 Mar — Called. Advised to search cancerresearchuk.org and mdanderson.org. Searched cancerresearchuk.org — no active SCLC trials listed. Next: await any new listings. |
-| MD Anderson Cancer Center | International@MDAnderson.org / 001-713-745-0450 | Active SCLC Phase I/II trials confirmed (ABBV-706, veliparib + temozolomide). 5 Mar — Emailed International Centre re dialysis-dependent patient eligibility. Next: await response. |
+| MD Anderson Cancer Center | celgarcia@mdanderson.org — Celia M. Garcia, Patient Access Representative — 001-713-745-0450 | **Action needed** 16 Mar — Response received. To book appointment send: full name + passport copy, DOB, phone + email, diagnosis. They will then email Dad directly with process to present case to clinic. |
 | Boehringer Ingelheim — DAREON-5 (obrixtamig) | 01344 742579 / medinfo.bra@boehringer-ingelheim.com | 5 Mar — Called. Advised all trials listed on clinicaltrials.gov and bepartofresearch.nihr.ac.uk — both already searched 2 Mar, no suitable SCLC trials found. Next: monitor for new listings. |
 
 ---
