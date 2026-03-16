@@ -59,7 +59,6 @@ Last updated: 16 March 2026, 11:15 GMT
 | Boehringer Ingelheim — DAREON-5 (obrixtamig) — Phase II DLL3/CD3 T-cell engager. FDA Breakthrough Therapy. Confirm UK sites and renal exclusion criteria. | medinfo.bra@boehringer-ingelheim.com / 01344 742579 | 5 Mar — Called. Advised all trials listed on clinicaltrials.gov and bepartofresearch.nihr.ac.uk — both already searched 2 Mar, no suitable SCLC trials found. Next: monitor for new listings. |
 | Dr Ingle — Molecular profiling | 01206 745087 | Ask: Was tumour molecular profiling done? Rare chance of actionable mutation that could open additional options. |
 | Dr Ingle — SABR to metastases | 01206 745087 | Ask: Was stereotactic radiotherapy (SABR) to specific metastases considered? Eligibility depends on location and number of metastases. |
-| Dr Ingle — Dexamethasone taper | 01206 745087 | Awaiting — taper schedule not yet received from team. |
 
 ### Excluded Trials
 
