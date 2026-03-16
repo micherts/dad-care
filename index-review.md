@@ -1,5 +1,5 @@
 # Dad Medical Status
-Last updated: 16 March 2026, 11:15 GMT
+Last updated: 16 March 2026, 13:43 GMT
 
 ---
 
@@ -8,7 +8,8 @@ Last updated: 16 March 2026, 11:15 GMT
 | Date & Time | Appointment | Duration | Type | Transport | Contact |
 |-------------|-------------|----------|------|-----------|---------|
 | Mon 9 Mar 16:20 | Hip MRI — Mr Lopez, Turner Centre | — | Done | James | Awaiting results |
-| ~Tue 14 Apr | Chest X-ray — radiotherapy response assessment — Radiology, Colchester Hospital — to be booked | — | To book | TBC | — |
+| Tue 14 Apr | Chest X-ray — radiotherapy response assessment — Radiology, Colchester Hospital | — | Confirmed | TBC | — |
+| Fri 24 Apr 10:30 | Telephone follow-up — post-radiotherapy review — Oncology team | — | Confirmed | Telephone | — |
 
 **Dialysis pattern:** HDF (Haemodiafiltration) via CVC, 3.5 hrs per session. Twice a week. Confirm each session time with Renal Unit (01206 747576).
 
@@ -21,7 +22,7 @@ Last updated: 16 March 2026, 11:15 GMT
 | Action | Status |
 |--------|--------|
 | GP appointment — request 2nd opinion referral to The Christie or Royal Marsden (Hardwicke House: 01787 370011) | To do |
-| Book chest X-ray at approx 6 weeks post radiotherapy (~14 April 2026) | To do |
+| Book chest X-ray at approx 6 weeks post radiotherapy (14 April 2026) | Booked |
 
 ---
 
